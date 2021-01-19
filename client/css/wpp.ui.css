@@ -1,0 +1,47 @@
+.wpp-toolbar {
+    min-height: 0px;
+    margin-bottom: 0px;
+}
+
+.wpp-page-header {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+.wpp-page-header .btn-back{
+    margin-top: 10px;
+}
+
+.wpp-browser-container {
+    width: 100%;
+}
+
+.wpp-browser-container .panel-body {
+    padding: 0px;
+}
+
+.wpp-browser-container .datagrid {
+    overflow-y: auto;
+    display: block;
+}
+
+.wpp-browser-container .panel-footer {
+    height: 40px;
+}
+
+.wpp-editor-container .panel-footer {
+    height: 40px;
+}
+
+.wpp-editor-container {
+    width: 100%;
+}
+
+img[src="data:image/jpeg;base64, null"] {
+    display: none;
+}
+
+.control-label.required {
+    color:  darkblue;
+}
